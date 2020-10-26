@@ -1,0 +1,53 @@
+body {
+    background-color: floralwhite;
+      margin: 0px;
+  }
+  .topnav {
+    background-color: #fce38a;
+     overflow: hidden;
+     padding-left: 200px;
+     margin-top: 0px;
+    }
+    
+    .topnav a{
+      float: left;
+      color: black;
+      text-align: center;
+      padding: 10px 15px;
+      text-decoration: none;
+      font-size: 20px;
+    }
+    
+    .topnav a:hover {
+      background-color: rgb(28, 28, 73);
+      color: white;
+    }
+    .logo-img{
+        width: 150px;
+        height: 50px;
+    }
+   .delivery-button{
+    background-color: #e31837;
+    color: #fff;
+    border: 0;
+    border-radius: .1875rem;
+    padding: .6em;
+   }
+   .delivery-button:hover{
+     background-color: darkred;
+   }
+   div{
+     display:inline-block;
+     padding: 10px 10px;
+   }
+   hr{
+     width: 100px;
+   }
+   .bg-img{
+     background-image: url(Rebie-Dining.jpg);
+     background-size: 100%;
+     background-position: center;
+     height: 400px;
+     background-repeat: no-repeat;  
+   }
+  
